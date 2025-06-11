@@ -4,14 +4,6 @@ Simple Project that **outpouts "Hello World" on windows terminal**, using the **
 
 ---
 
-## Project Info.
-- **Author:** Anderson  
-- **Language:** Assembly x86  
-- **Compiler :** MASM32  
-- **Why i made this?** To outpout "Hello World", my first test using MASM and Assembly.
-
----
-
 ## How to.
 > Requires MASM32 SDK installed and available in the system PATH.
 
